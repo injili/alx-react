@@ -1,20 +1,23 @@
-import holbertonlogo from "../public/logo.jpg"
+import logo from './logo.jpg';
+import './App.css';
 
 function App() {
   return (
     <div>
-      <header className="App-header">
-        <img src={holbertonlogo} alt="Holberton React" />
-        <h1>Schoool dashboard</h1>
-      </header>
-      <hr></hr>
-      <body className="App-body">
+      <div className="App-header">
+        <img src={logo} alt="This Is Holberton Dawg"/>
+        <h1>School dashboard</h1>
+      </div>
+      <hr />
+      <div className="App-body">
         <p>Login to access the full dashboard</p>
-      </body>
-      <hr></hr>
-      <footer className="App-footer">
-        <p>Copyright2020 - holberton Schoool</p>
-      </footer>
+      </div>
+      <div className="App-footer">
+      <hr />
+        <p>Copyright 2020 - holberton School</p>
+      </div>
     </div>
   );
 }
+
+export default App;
