@@ -1,7 +1,6 @@
 import logo from './logo.jpg';
 import './App.css';
-import { getFullYear } from './utils';
-import getFooterCopy from './utils';
+import { getFullYear, getFooterCopy } from './utils';
 
 function App() {
   return (
@@ -16,7 +15,7 @@ function App() {
       </div>
       <div className="App-footer">
       <hr />
-        <p>Copyright {getFullYear()} - {getFooterCopy(false)}</p>
+        <p>Copyright {getFullYear()} - {getFooterCopy()}</p>
       </div>
     </div>
   );
