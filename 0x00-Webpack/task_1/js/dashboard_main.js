@@ -1,7 +1,7 @@
 import $ from 'jquery';
 import _ from 'lodash';
 
-$('body').appeng('<p>Holberton Dashboard</p>');
+$('body').append('<p>Holberton Dashboard</p>');
 $('body').append('<p>Dashboard data for the students</p>');
 $('body').append('<button>CLick here to get started</button>')
 $('body').append("<p id='count'></p>");
