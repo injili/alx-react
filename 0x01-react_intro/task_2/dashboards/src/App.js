@@ -14,15 +14,13 @@ function App() {
         <p>Login to access the full dashboard</p>
         <form>
           <label>
-            Email: 
+            Email:
             <input type='email' name='email' />
           </label>
-          <br />
           <label>
-            Password: 
+            Password:
             <input type='text' name='password' />
           </label>
-          <br />
           <input type='button' name='ok' value='OK' />
         </form>
       </div>
