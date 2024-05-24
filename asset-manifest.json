@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/alx-react/0x01-react_intro/task_3/dashboards/static/css/main.378589df.css",
-    "main.js": "/alx-react/0x01-react_intro/task_3/dashboards/static/js/main.e2843c4b.js",
-    "static/js/453.27151888.chunk.js": "/alx-react/0x01-react_intro/task_3/dashboards/static/js/453.27151888.chunk.js",
-    "static/media/logo.jpg": "/alx-react/0x01-react_intro/task_3/dashboards/static/media/logo.24bab5d633e36ca8d17e.jpg",
-    "index.html": "/alx-react/0x01-react_intro/task_3/dashboards/index.html",
-    "main.378589df.css.map": "/alx-react/0x01-react_intro/task_3/dashboards/static/css/main.378589df.css.map",
-    "main.e2843c4b.js.map": "/alx-react/0x01-react_intro/task_3/dashboards/static/js/main.e2843c4b.js.map",
-    "453.27151888.chunk.js.map": "/alx-react/0x01-react_intro/task_3/dashboards/static/js/453.27151888.chunk.js.map"
+    "main.css": "/alx-react/static/css/main.378589df.css",
+    "main.js": "/alx-react/static/js/main.3a4afec7.js",
+    "static/js/453.27151888.chunk.js": "/alx-react/static/js/453.27151888.chunk.js",
+    "static/media/logo.jpg": "/alx-react/static/media/logo.24bab5d633e36ca8d17e.jpg",
+    "index.html": "/alx-react/index.html",
+    "main.378589df.css.map": "/alx-react/static/css/main.378589df.css.map",
+    "main.3a4afec7.js.map": "/alx-react/static/js/main.3a4afec7.js.map",
+    "453.27151888.chunk.js.map": "/alx-react/static/js/453.27151888.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.378589df.css",
-    "static/js/main.e2843c4b.js"
+    "static/js/main.3a4afec7.js"
   ]
 }
