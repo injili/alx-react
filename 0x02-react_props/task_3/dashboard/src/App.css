@@ -11,29 +11,10 @@
   --font-size-xx-large: 4.8rem;
 }
 
-.App-header {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: left;
-  font-size: calc(10px + 2vmin);
-  color: var(--primary-color);
-}
-
 .App-body {
   margin: 10px;
   padding: 10px;
   font-size: var(--font-size-medium);
-}
-
-.App-footer {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  text-align: center;
-  font-style: italic;
-  font-size: var(--font-size-small);
 }
 
 hr {
