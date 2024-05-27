@@ -1,0 +1,16 @@
+.Notifications {
+    border: 2px dashed;
+    margin: 1em;
+    border-color: #e0354b;
+    padding: 1em;
+    width: 97ew;
+    top: 10px;
+}
+
+li[data-priority= '1'] {
+    color: red;
+}
+
+li[data-priority= '2'] {
+    color: blue;
+}
