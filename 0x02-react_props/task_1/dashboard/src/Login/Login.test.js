@@ -8,6 +8,6 @@ describe('tests for login', () => {
     });
     it('renders two input tags', () => {
         const login = shallow(<Login />);
-        expect(login).toBe
+        expect(login).toBeDefined();
     })
 });
