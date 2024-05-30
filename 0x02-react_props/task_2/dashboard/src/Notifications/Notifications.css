@@ -7,10 +7,11 @@
     top: 10px;
 }
 
-li[data-priority= '1'] {
-    color: red;
-}
-
-li[data-priority= '2'] {
+[data-notification-type="default"] {
     color: blue;
+}
+  
+[data-urgent],
+[data-notification-type="urgent"] {
+    color: red;
 }
