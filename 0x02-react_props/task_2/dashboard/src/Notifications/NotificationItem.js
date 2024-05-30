@@ -1,4 +1,4 @@
-import '../Notifications.css';
+import './Notifications.css';
 
 export default function NotificationItem({ type, html, value }) {
     return (
