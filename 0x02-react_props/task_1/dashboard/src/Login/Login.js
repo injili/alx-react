@@ -9,7 +9,7 @@ export default function Login() {
                 Password:
                 <input type='text' name='password' />
             </label>
-            <input type='button' name='ok' value='OK' />
+            <button>OK</button>
         </form>
     )
 }

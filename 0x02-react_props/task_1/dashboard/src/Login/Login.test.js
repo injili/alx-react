@@ -8,6 +8,7 @@ describe('tests for login', () => {
     });
     it('renders two input tags', () => {
         const login = shallow(<Login />);
-        expect(login).toBeDefined();
-    })
+        expect(login.find('input')).toHaveLength(2);
+        expect(login.find('label')).toHaveLength(2);
+    });
 });
