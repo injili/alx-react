@@ -1,0 +1,23 @@
+:root {
+    --primary-color: #e0354b;
+  
+    --font-family-base: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-family-title: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  
+    --font-size-small: 1.2rem;
+    --font-size-medium: 1.6rem;
+    --font-size-large: 1.8rem;
+    --font-size-x-large: 2.3rem;
+    --font-size-xx-large: 4.8rem;
+}
+
+.App-body {
+    font-size: 1rem;
+    padding: 2em;
+    border-bottom: 3px solid #e0354b;
+    height: 45%;
+  }
+  
+  form input {
+    margin: 10px;
+  }
